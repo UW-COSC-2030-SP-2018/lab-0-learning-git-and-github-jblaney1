@@ -7,4 +7,4 @@ List two truths and one lie about you below
 
 
 Bonus (+1), add your screen shot as an image here.
-https://github.com/UW-COSC-2030-SP-2018/lab-0-learning-git-and-github-jblaney1/blob/master/proof/GitTutorial.PNG
+
