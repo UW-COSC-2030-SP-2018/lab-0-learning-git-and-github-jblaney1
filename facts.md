@@ -7,4 +7,4 @@ List two truths and one lie about you below
 
 
 Bonus (+1), add your screen shot as an image here.
-![alt text](Git Tutorial.png "Git Tutorial")
+![alt text](Proof/Git_Tutorial.png "Git Tutorial")
